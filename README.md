@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Syed Asrar! 😁
 
-Hello, my name is Syed Asrar and I am a master's student at [REVA University](https://www.reva.edu.in/) majoring in Artificial Intelligence. I am a full-stack software developer with six months of experience working as a Software Engineer. My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript and HTML/CSS/Bootstrap?Tailwind. Besides programming, I have an immense interest in gaming.
+I am a master's student at [REVA University](https://www.reva.edu.in/) majoring in Artificial Intelligence. I am a full-stack software developer with six months of experience working as a Software Engineer. My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript and HTML/CSS/Bootstrap?Tailwind. Besides programming, I have an immense interest in gaming.
 
 
 **Languages and Tools:** 
