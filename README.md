@@ -19,4 +19,4 @@ Hello, my name is Syed Asrar and I am a master's student at [REVA University](ht
 [![Syed Asrar's streaks](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedasrar00&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=syedasrar00.syedasrar00)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=syedasrar00.syedasrar00)
