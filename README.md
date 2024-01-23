@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Syed Asrar! 😁
 
-I am a master's student at [REVA University](https://www.reva.edu.in/) majoring in Artificial Intelligence. I am a full-stack software developer at Enhancesys Inc. My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript and HTML/CSS/Bootstrap/Tailwind. Besides programming, I have an immense interest in gaming.
+I am a master's student at [REVA University](https://www.reva.edu.in/) majoring in Artificial Intelligence. I am currently working as a java full-stack software developer at Enhancesys Inc. My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript and HTML/CSS/Bootstrap/Tailwind. Besides programming, I have an immense interest in gaming.
 
 
 **Languages and Tools:** 
